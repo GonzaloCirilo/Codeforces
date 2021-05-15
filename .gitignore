@@ -1,2 +1,5 @@
 *.exe
 *.txt
+
+.vscode
+test_gen.cpp
