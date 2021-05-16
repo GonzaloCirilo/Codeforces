@@ -1,2 +1,2 @@
 # Codeforces
-Solutions from Codeforces (Div. 2 oonly for now)
+Solutions from Codeforces (Div. 2 only for now)
